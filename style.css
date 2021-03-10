@@ -1,0 +1,84 @@
+main {
+  border: 1px solid black;
+  background-color: #f4f9f9;
+}
+header {
+  text-align: center;
+  text-decoration: underline;
+  border: 1px solid black;
+  padding: 15px;
+  margin-bottom: 5px;
+  background-color: #f4f9f9;
+}
+.montserrat {
+  font-family: "Montserrat";
+}
+.merriweather {
+  font-family: "Merriweather";
+}
+.raleway {
+  font-family: "Raleway";
+}
+.openSans {
+  font-family: "Open Sans"
+  display: block;
+}
+.container {
+  display: block;
+}
+.montContainer {
+
+  padding: 10px;
+  width: 23%;
+  background-color: white;
+  display: inline-block;
+  margin-left: 10px;
+  margin-bottom: 10px;
+
+}
+.merriContainer {
+
+  padding: 10px;
+  width: 23%;
+  background-color: white;
+  display: inline-block;
+  margin-left: 10px;
+}
+.raleContainer {
+
+  padding: 10px;
+  width: 23%;
+  background-color: white;
+  display: inline-block;
+  margin-left: 10px;
+}
+.openContainer {
+
+  padding: 10px;
+  width: 23%;
+  background-color: white;
+  display: inline-block;
+  margin-left: 10px;
+  top: 0;
+}
+.infoLine {
+  margin-left: 15px;
+}
+.blue, .green, .red, .yellow {
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+}
+.blue {
+  background-color: #28527A;
+
+}
+.green {
+  background-color: #c7ffd8;
+}
+.red {
+  background-color: #c70039;
+}
+.yellow {
+  background-color: #ffcc29;
+}
